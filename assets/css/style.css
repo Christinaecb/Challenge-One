@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/*Created header element and changed div to nav to create navigation links*/
+/*Removed Div*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
